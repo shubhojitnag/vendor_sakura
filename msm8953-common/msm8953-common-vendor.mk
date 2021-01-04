@@ -39,8 +39,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/msm8953-common/proprietary/lib/libOmxMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOmxMux.so \
     vendor/xiaomi/msm8953-common/proprietary/lib/libOmxMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOmxMux.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libmmosal.so \
+    vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libqdMetaData.system.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libqdMetaData.system.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libmmparser_lite.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libmmparser_lite.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib64/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmosal.so \
+    vendor/xiaomi/msm8953-common/proprietary/system_ext/lib64/libqdMetaData.system.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libqdMetaData.system.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib64/libmmparser_lite.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libmmparser_lite.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libgralloc.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libgralloc.qti.so \
     vendor/xiaomi/msm8953-common/proprietary/system_ext/lib/libstagefright_enc_common.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libstagefright_enc_common.so \
